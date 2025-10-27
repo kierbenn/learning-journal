@@ -1,4 +1,3 @@
-
 import { createBrowserRouter } from "react-router-dom"
 import Home from "./pages/HomePage"
 import BlogPost from "./pages/BlogPostPage"
