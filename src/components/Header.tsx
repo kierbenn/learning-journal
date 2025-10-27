@@ -6,7 +6,7 @@ export default function Header() {
         <header className="bg-white">
             <div className='flex flex-col sm:flex-row items-center max-w-5xl m-auto p-4 sm:p-6 md:px-8 gap-4'>
             <div className='flex'>
-                <img src="images/logo.svg" alt="logo" />
+                <img src="/learning-journal/images/logo.svg" alt="logo" />
                 <h2 className='text-xl font-bold font-[Roboto] ml-2'>My learning journal</h2>
             </div>
                 <nav className="sm:ml-auto">
