@@ -1,7 +1,7 @@
 
 import { createBrowserRouter } from "react-router-dom"
-import Home from "./pages/Home"
-import BlogPost from "./pages/BlogPost"
+import Home from "./pages/HomePage"
+import BlogPost from "./pages/BlogPostPage"
 import App from "./App"
 
 export const router = createBrowserRouter(
@@ -17,4 +17,5 @@ export const router = createBrowserRouter(
         },
     ], { 
         basename: "/learning-journal/", 
-    })
+    }
+)

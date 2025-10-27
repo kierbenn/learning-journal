@@ -48,7 +48,7 @@ export const blogPosts: Blog[] = [
         id: 6,
         date: "September 13, 2025",
         image: "blog-image-06.png",
-        title: "Blog two",
+        title: "Blog six",
         description: "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path."
     }
 ]
